@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\GTX Acer\.android\build-cache\81a6012bc6e178f71636c6ed9d0d8af7b1ac51fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\GTX Acer\Documents\Sprouts1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a600e0d46273ddf2c3dce7db6f917f94730c451c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GTX Acer\.android\build-cache\bb44aef5256f97c0c941221f7273d201cdf89764\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\GTX Acer\Documents\Sprouts1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77479e30234ee22e24fb5b8497560048a3e07309\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GTX Acer\.android\build-cache\be8bb401fe135f3b44095f05ef8025fe68128983\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\GTX Acer\Documents\Sprouts1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aee9ad7637b09ee05a9e3cde0309274f2ddffbfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GTX Acer\.android\build-cache\29b17ecb0b89b80c3bb6bf26c1ff1602e5474b5d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\GTX Acer\Documents\Sprouts1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7cb621408ca3be8bb3a8537799aa8312b0901db9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GTX Acer\.android\build-cache\77acf64d4b2b1cdada1e49c99107543ffda4adf6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\GTX Acer\Documents\Sprouts1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7186412de6855f0a4aaff4718c7fcdd3c529270c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GTX Acer\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\GTX Acer\Documents\Sprouts1\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_6bca4683dc2f6e51fa770e31575ba5f1a99422bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GTX Acer\.android\build-cache\4d18c0fe66a4cbee4ee3e668d8950bc68d483394\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\GTX Acer\Documents\Sprouts1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0247391a693652b7fb2563ef326d36b79bbd3c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GTX Acer\.android\build-cache\2434d41bf5aeb4e1b0d4f8b81292305468e06cb0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\GTX Acer\Documents\Sprouts1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab7e39925deee2210f4a41330ca5579a90743246\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GTX Acer\.android\build-cache\5074e86c31d18a82fcaa37a3f37ebadfe5645e7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\GTX Acer\Documents\Sprouts1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7b2763390064aadcce1b7892c92aea9c42956e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GTX Acer\Documents\Sprouts1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\GTX Acer\Documents\Sprouts1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3dc2ffe1feb24278d8652b477b84f68be1960660\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GTX Acer\.android\build-cache\3284d48fc41ed832691a4b83ca39375c80a92e61\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\GTX Acer\Documents\Sprouts1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42a5057ce9b9de1e4d156c8e0c4a5c8badb7d9de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GTX Acer\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\GTX Acer\Documents\Sprouts1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_acf825fca72588edb4e0eb92fab016f66b368c44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GTX Acer\Documents\Sprouts1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28db1c679e2030ef4f89a2ea69363843b8bc4b02">
+        <dex dex="C:\Users\GTX Acer\Documents\Sprouts1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6617a03a6a25cbde1985b72526bd8d2f57b684fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GTX Acer\.android\build-cache\88d3352f8f3e0791c9fb1893f2d73dc93b266b04\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\GTX Acer\Documents\Sprouts1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c26ede417f28c713f3f82bdb03c3786c763d3849\classes.dex" />
+    </item>
+
+</items>

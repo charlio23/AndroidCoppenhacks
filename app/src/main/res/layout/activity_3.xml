@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="600dp"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    tools:scrollbars="vertical"
+    android:orientation="vertical"
+    tools:context=".Main2Activity">>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="243dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="\n\nThe game is played by two players, starting by drawing two spots. Players take turns: each turn consists of drawing a line between two spots (or from a spot to itself) and adding a new spot somewhere along the line. There are 3 rules to follow: \n\n 1. The line may be straight or curved, but must not touch or cross itself or any other line. \n 2. The new spot cannot be placed on top of one of the endpoints of the new line. Thus the new spot splits the line into two shorter lines. \n 3. No spot may have more than three lines attached to it: a line from the spot to itself counts as two attached lines and new spots are counted as having two lines already attached to them. \n\n\n Happy sprouting!"
+        android:textColor="@color/colorAccent"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/button3"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginLeft="400dp"
+        android:text="Return" />
+</LinearLayout>

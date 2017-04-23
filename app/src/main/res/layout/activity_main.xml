@@ -1,0 +1,75 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="MainActivity">
+
+    <FrameLayout xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content">
+        <com.example.gtxacer.sprouts1.TouchView
+            android:layout_width="match_parent"
+            android:background="#ffffff"
+            android:layout_height="match_parent"
+            tools:layout_height="wrap_content" />
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:text="Player 2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignTop="@+id/button"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="91dp"
+            android:id="@+id/textView5"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:textSize="30sp"
+            android:textAlignment="center"
+            tools:layout_marginEnd="50dp"
+            android:textStyle="normal|bold"
+            android:layout_weight="1"
+            android:textColor="@android:color/holo_red_dark" />
+
+        <TextView
+            android:text="Player 1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignTop="@+id/button"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="91dp"
+            android:id="@+id/textView3"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:textSize="30sp"
+            android:textStyle="normal|bold"
+            android:textAlignment="center"
+            tools:layout_marginEnd="200dp"
+            android:layout_weight="1"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <Button
+            android:text="GIVE UP"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/button2"
+            android:layout_weight="1" />
+
+        <Button
+            android:text="UNDO"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:id="@+id/button"
+            android:layout_below="@+id/frameLayout"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+</RelativeLayout>
